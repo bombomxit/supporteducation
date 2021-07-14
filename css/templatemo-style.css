@@ -387,16 +387,16 @@ section {
 }
 
 .home-slider .item-first {
-  background-image: url("https://phunugioi.com/wp-content/uploads/2020/08/background-xanh-duong-scaled.jpg");
+  background-image: url(../images/slider-image1.jpg);
   background-position: center;
 }
 
 .home-slider .item-second {
-  background-image: url("https://e2.com.vn/wp-content/uploads/2019/12/learn-academic-english-secondary-school-students.jpg");
+  background-image: url("https://scontent.fhan2-2.fna.fbcdn.net/v/t1.6435-9/66852652_2240836115965627_1481913181981900800_n.png?_nc_cat=110&ccb=1-3&_nc_sid=e3f864&_nc_ohc=3tfzVYWjS18AX9Wxv3h&_nc_ht=scontent.fhan2-2.fna&oh=451c3d1c5533c0189eaa16b0c658ca0d&oe=60F2EF06");
 }
 
 .home-slider .item-third {
-  background-image: url(../images/slider-image3.jpg);
+  background-image: url("https://scontent.fhan2-3.fna.fbcdn.net/v/t31.18172-8/17390576_1247208725328376_5612944441426569736_o.jpg?_nc_cat=108&ccb=1-3&_nc_sid=19026a&_nc_ohc=KTTzi_GS11gAX_uneFv&_nc_ht=scontent.fhan2-3.fna&oh=6535660a44b400637de7a1a69ed5946f&oe=60F32EB1");
 }
 
 /*---------------------------------------
